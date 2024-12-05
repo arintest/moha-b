@@ -1,9 +1,9 @@
-# Hello👋, I am Mohab  <img align="right" width="250" src="assets/Valorant stickers/Fascinating.png"/>
+# Hello👋, I am Arin  <img align="right" width="250" src="assets/Valorant stickers/Fascinating.png"/>
 ####
 
-👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of Cross-Platform technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
+👋 Hey there! 🚀 I'm currently diving into the exciting world of Cross-Platform technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
 
-💡 If you're curious about Flutter or want to chat, I'm your go-to person! Feel free to reach out to me through my [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNwfvtDDNzfJTHHbzBCFLHrLhhdFmTkqJvVGlZDqGfnjGtrTKHPnHCflSXGfXJwwwQxwCL)
+💡 If you're curious about Flutter, Unity or want to chat, I'm your go-to person! Feel free to reach out to me.
 
 . Let's connect and bring some ideas to life!🌟
 
@@ -12,7 +12,7 @@
 
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,kotlin,dart,react,bootstrap,cpp,flutter,unity,discord,github,git,githubactions,idea,java,nextjs,firebase,nodejs,npm,postman,powershell,redux,rider,cs,stackoverflow,tailwind,ts,express,notion,windows,xd,webstorm,vscode,vue,vercel,figma,androidstudio,sqlite)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,sass,kotlin,dart,react,bootstrap,cpp,flutter,unity,discord,github,git,githubactions,idea,java,nextjs,firebase,nodejs,npm,postman,powershell,redux,rider,cs,stackoverflow,tailwind,ts,express,notion,windows,xd,webstorm,vscode,vue,vercel,figma,androidstudio,sqlite)](https://skillicons.dev](https://skillicons.dev/icons?i=cs,audition,ae,autocad,photoshop,premiere,javascript,gmail,github,vscode,xd,windows,wordpress,visualstudio,unrealengine,unity,typescript,twitter,ubuntu,tensorflow,tailwindcss,svg,notion,linux,linkedin,sketchup,stackoverflow,python,discord,discordbots,discordjs,docker,dart,html,figma,illustrator,instagram,godot,gamemakerstudio,gcp,flutter,firebase,kubernetes,npm,nodejs,nginx,netlify,androidstudio,apple,atom,dotnet,kotlin,golang,c,cpp,css,react,redhat,webassembly,windicss,aws,postman,powershell,bitbucket,git,gitlab,php,eclipse,obsidian,blender,markdown,materialui,htmx,sublime,kali,azure,rails,bootstrap,emotion,robloxstudio,githubactions,gradle&theme=dark&perline=15))
 
 ## Professional experiences
 
